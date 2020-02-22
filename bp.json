@@ -5,6 +5,7 @@
 "id":"Allo_Character_BP_C",
 "bp":"PrimalEarth/Dinos/Allosaurus/Allo_Character_BP.Allo_Character_BP"
 },{
+  admincheat SpawnDino "Blueprint'/Game/Mods/Ragnarok/Custom_Assets/Dinos/Wyvern/Ice_Wyvern/Ragnarok_Wyvern_Override_Ice.Ragnarok_Wyvern_Override_Ice'" 500 0 0 35
 "t":"Alphas",
 "cid":"carno",
 "label":"Alpha Carno",
